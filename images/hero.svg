@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440">
+  <circle cx="270" cy="220" r="190" fill="#f5e3cf"/>
+  <circle cx="430" cy="80" r="28" fill="#f2c9a0"/><circle cx="90" cy="360" r="20" fill="#e8c39b"/>
+  <g transform="rotate(-18 220 230)"><rect x="90" y="150" width="250" height="130" rx="10" fill="#4a2c1d"/><g fill="#5e3a26" stroke="#3a2217" stroke-width="3"><rect x="100" y="160" width="50" height="52" rx="5"/><rect x="158" y="160" width="50" height="52" rx="5"/><rect x="100" y="220" width="50" height="52" rx="5"/><rect x="158" y="220" width="50" height="52" rx="5"/></g><path d="M216 140h134v150H216l12-18-12-18 12-18-12-18 12-18-12-18 12-18z" fill="#a0643c"/><text x="285" y="222" text-anchor="middle" font-family="Prompt,Arial" font-size="22" font-weight="700" fill="#fff">COCODEE</text></g>
+  <g transform="rotate(14 360 280)"><rect x="300" y="250" width="170" height="80" rx="8" fill="#2a1810"/><text x="385" y="298" text-anchor="middle" font-family="Prompt,Arial" font-size="20" font-weight="700" fill="#f3d9b8">DARK 70%</text></g>
+</svg>
